@@ -1,4 +1,5 @@
-// Problem 7.29 on page 328
+// MAIN PROGRAM
+//Problem 7.29 on page 328
 // Write an application that simulates coin tossing.  
 // Let the application toss a coin each time the user 
 // chooses the “Toss Coin” menu option.  Count the 
